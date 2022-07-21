@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SourceNode
-- 👀 I’m interested in reading, home renovation, board games
-- 🌱 I’m currently learning Python and Redis
+- 👋 Hi, I’m Kevin Hinners (aka @SourceNode)
+- 👀 I’m interested in reading, home renovation, board games, quantum computing
+- 🌱 I’m currently learning Clojure and Kotlin
 - 💞️ I’m looking to collaborate on Java-based OSS bug smash
 - 📫 How to reach me @khinners on Twitter
 
